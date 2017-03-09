@@ -1,0 +1,1 @@
+@include('slider::admin.sliders.partials._form', ['form_type' => 'create'])
