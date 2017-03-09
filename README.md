@@ -1,7 +1,7 @@
 # Slider module for AsgardCMS 2
 
 Slider module implemented by using FlexSlider 2, but can be replace by any other slider.  
-Module uses my own vendor package "alex/image" for uploading images.  
+Module requires my own vendor package "alex/image" for uploading images.  
 
 ## Installation
 
